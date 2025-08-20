@@ -1,6 +1,6 @@
 Hi, I’m Cybellara!👋
 
-💻 Computer Science student | 🧠 Psychology + ⚙️ Technology + 🔐 Cybersecurity | 🌸 Creating interactive web experiences | 📚 Forever learning!
+💻 Computer Science student | I love about 🧠 Psychology + ⚙️ Technology + 🔐 Cybersecurity | 🌸 Creating interactive web experiences | 📚 Forever learning!
 
 
 ## 🌐 Socials:
