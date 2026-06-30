@@ -1,10 +1,41 @@
-Hi, I’m Cybellara!👋
+# Hi there, I'm April Pauline 👋
 
-💻 Computer Science student | I love about 🧠 Psychology + ⚙️ Technology + 🔐 Cybersecurity | 🌸 Creating interactive web experiences | 📚 Forever learning!
+I'm a **Computer Science student** who loves building cute and creative things with code.  
+When I'm not debugging, you'll probably find me diving into psychology and books or geeking out over the latest in cybertechnology.
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ai.plndpz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aipauline.depaz@gmail.com) 
+## 🌸 About Me
 
-# 💻 Tech Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 🎓 CS student with a passion for making the web a prettier place
+- 💻 I code cute stuffs — UI, little projects, and everything in between
+- 🧠 Fascinated by **psychology** how people think, feel, and behave
+- 🔐 Equally hooked on **cybertechnology** security, systems, and the digital world
+- 🌱 Always learning, always building
+
+---
+
+## 🛠️ Tech I Work With
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+---
+
+## ✨ Interests
+
+```
+Psychology  +  Cybersecurity  +  Web Development  +  UI/UX Design
+```
+
+---
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories and reach out!  
+I'm always open to collaborations, cute project ideas, or just a good conversation. 🌷
+
+---
+
